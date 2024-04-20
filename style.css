@@ -1,0 +1,339 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Oswald:wght@200..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #15181B;
+    font-family: "Inter", sans-serif;
+
+}
+
+.main {
+    display: flex;
+
+}
+
+.contiar {
+    padding: 20px 80px !important;
+
+}
+
+.profile-data {
+    margin-left: 30px;
+    
+
+}
+
+.icon-deatiles {
+    display: flex;
+    margin-left: 40px;
+
+}
+
+.icon-deatiles .icons {
+    font-size: 25px;
+    padding: 10px 10px;
+    color: white;
+}
+/* .hira-btn:hover{
+    cursor: pointer;
+    color: white;
+    background-color:  #327cb8;
+    
+    outline-color:#446a82(48, 130, 206);
+} */
+.hira-btn{
+    margin-left: 45px;
+    color: white;
+    margin-top: 20px;
+    width: 150px;
+    height: 50px;
+    top: 600px;
+
+
+
+
+}
+.hira-btn:hover{
+    border-color: #44AAFF;
+    color: #FFFFFF;
+
+}
+
+.profile-deatils {
+    margin-right: 30px;
+
+
+}
+
+.pro-file h2 {
+    color: white;
+    margin-top: 30px;
+    font-size: 20px;
+    width: 650px;
+}
+
+.pro-file h1 {
+    color: white;
+}
+
+.pro-file p {
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.experience-section{
+    display: flex;
+    
+    
+   
+    margin-top: 90px;
+    margin-left: 10px;
+   
+
+}
+
+.ex-pericence{
+
+    margin-left: 70px ;
+
+    margin-right: 40px;
+}
+
+
+.ex-pericence h1{
+    color: #fff;
+    margin-bottom: 10px;
+    text-align: center;
+    
+}
+.ex-pericence span{
+    color: #fff;
+}
+.ex-pericence-project h1{
+color: #fff;
+margin-bottom: 10px;
+text-align: center;
+
+}
+.ex-pericence-project span{
+    color: #fff;
+}
+.ex-pericence-happy h1{
+color: #fff;
+margin-bottom: 10px;
+text-align: center;
+}
+.ex-pericence-happy span{
+    color: #fff;
+}
+.ex-pericence h1{
+    color: #44AAFF;
+}
+.great-desgin{
+    color: #fff;
+    margin-top: 80px;
+}
+.be-gin{
+    color: #44AAFF;
+    
+    
+}
+
+.car-eer h4 {
+    color: #fff;
+    margin-bottom: 10px;
+}
+.car-eer span{
+    margin-top: 30px;
+}
+
+.edu-cation{
+    color:#44AAFF;
+    margin-top: 120px;
+    
+}
+.ser-vices{
+    color: #fff;
+    margin-top: 16px;
+}
+.pro-ject{
+    display: flex;
+    text-align: center;
+    margin-top: 40px;
+    width: 650px;
+    height: 100px;
+
+}
+.per-sen{
+    
+color: #999999;
+margin-top: 16px;
+
+}
+
+
+.ux-design{
+    border: 1px solid ;
+    width: 200px;
+    height: 80px;
+    margin-right: 20px;
+    border-radius: 20px;
+    padding-top: 15px;
+}
+.sil-ks{
+    color: 
+    #FFFFFF;
+}
+.img-edit{
+
+ margin-top: 40px
+    
+}
+.img-ed img{
+    margin-right: 30px;
+   
+}
+
+.con-tact{
+    margin: 150px;
+    color: 
+    #999999;
+    
+}
+.wo-rak{
+    color: #fff;
+    margin: 30px 0px;
+}
+
+.wo-rk{
+    font-size: 30px;
+    font-weight: 400px;
+    color: #44AAFF;
+    margin: 20px opx;
+}
+.img-ed{
+    margin-bottom: 150px;
+}
+.form-input{
+    margin: 20px opx;
+}
+.form-textarea textarea{
+    border-top: none;
+border-right: none;
+border-left: none;
+border-bottom: 1px solid 
+#fff;
+}
+.tru-sted{
+    color: #FFFFFF;
+}
+form input:focus,form textarea:focus{
+    background: transparent;
+    color: white;
+    font-size: 16px;
+}
+
+.form-input input{
+border-top: none;
+border-right: none;
+border-left: none;
+border-bottom: 1px solid 
+#fff;
+width: 400px;
+padding: 8px;
+
+}
+.form-input input:focus{
+outline: none;
+}
+
+
+
+
+.br-ands img{
+    margin: 40px 50px;
+}
+
+
+
+.profile h1{
+font-weight: 400;
+font-size: 24px;
+line-height: 20px;
+color: #44AAFF;
+margin-bottom: 15px;
+}
+.profile span{
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    color: white;
+    
+} 
+.profile img{
+    margin-top: 10px;
+} 
+.profile{
+    margin-bottom: 150px;
+}
+.img-group-2{
+    margin-right: 10px;
+}
+.girl{
+    width: 750px;
+    border: 1px solid white;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 40px;
+}
+.one{
+    display: flex;
+    padding: 60px 60px 0px 10px;
+    
+}
+.one img{
+    margin: 10px;
+}
+.one.girl-pg{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29.5px;
+}
+.one p{
+    margin-top: 30px;
+}
+.girl-pg{
+    margin-top: 30px;
+    color: white;
+}
+.headline{
+    margin-top: 30px;
+    margin: 0px 40px 60px 20px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 33.6px;
+    color: white;
+}
+.con-tact input{
+    margin-bottom: 20px;
+}
+.send-btn{
+    width: 150px;
+height:  60px;
+color: #fff;
+
+border-radius: 12px;
+border: 1px solid whitesmoke;
+
+margin-top: 30px;
+font-size: 22px;
+font-weight: 400;
+
+}
+.send-btn:hover{
+transform: scale(1.1);
+border-color:#44AAFF;
+
+}
